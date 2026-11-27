@@ -12,3 +12,6 @@ See [`docs/SPRINT0_FINDINGS.md`](docs/SPRINT0_FINDINGS.md).
 python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
+
+## Environment
+Windows + VS Code + PowerShell
